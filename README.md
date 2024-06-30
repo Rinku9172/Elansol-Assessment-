@@ -8,7 +8,7 @@ Login and registration system in react and node.js.
 https://elansol-assessment.vercel.app/
 
 ## Backend URL
-https://elansol-backend-zeta.vercel.app/
+https://github.com/Rinku9172/Elansol-Backend
 ## Screenshots
 
 ## Signup Page
